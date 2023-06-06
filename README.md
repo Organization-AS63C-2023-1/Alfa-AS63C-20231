@@ -1,7 +1,7 @@
 # Alfa-AS63C-20231
 Artefatos do Grupo Alfa
 
-Descrever aqui:
+Estrutura sugerida para entrega dos repositórios da disciplina de Desenvolvimento Ágil:
 
 a.	Nome da empresa (Grupo)
 
